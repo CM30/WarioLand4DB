@@ -1,0 +1,22 @@
+{
+  "name": "wario-land-4-mods",
+  "version": "1.0.0",
+  "description": "A basic package.json file",
+  "main": "Gruntfile.js",
+  "devDependencies": {
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-jshint": "^2.0.0",
+    "grunt-contrib-nodeunit": "^2.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  },
+  "dependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify-es": "github:gruntjs/grunt-contrib-uglify#harmony",
+    "grunt-sass": "^2.0.0",
+    "material-components-web": "^0.37.0",
+    "node-sass": "^4.9.3"
+  }
+}

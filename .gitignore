@@ -1,0 +1,4 @@
+#Ignore Node Modules, SASS Cache
+
+themes/warioland4mods/node_modules
+themes/warioland4mods/.sass-cache
